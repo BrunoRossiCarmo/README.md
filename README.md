@@ -1,6 +1,6 @@
 # Hi :smiley:
 
-I'm a **physics student** in **Federal University of São Carlos [UFSCar](https://www2.ufscar.br)**. 
+I'm a **physics student** in **Federal University of São Carlos [(UFSCar)](https://www2.ufscar.br)**. 
 
 Currently I'm working at volunteer work of scientific initiation in areas:
 - Quantum Optics 
